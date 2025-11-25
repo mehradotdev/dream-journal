@@ -1,5 +1,5 @@
 {
-  "name": "dream-journal-worker",
+  "name": "dream-journal",
   "compatibility_date": "2025-11-25",
   "assets": {
     "directory": "./dist"
